@@ -1,0 +1,169 @@
+/* .jj{
+    font-style: italic;
+    margin: 20px;
+}
+.hea{
+    display: flex;
+    justify-content: space-between;
+}
+.sm{
+    display: flex;
+}
+/* .ho{
+    padding-top: 20px;
+} */
+/* .sear{
+    border-radius: 30px;
+}
+.sy{
+    display: flex;
+}
+.sea{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 20px;
+}
+.prof{
+    display: flex;
+    margin-left:  20px;
+    background-color: orange;
+    padding: 10px;
+}
+.p{
+    /* padding-top: 25px; */
+    /* padding-left: 4px; */
+/* } 
+ */
+
+ .hea {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f0f0f0; /* Add your desired background color */
+}
+
+.sm {
+    display: flex;
+    align-items: center;
+}
+
+.ho {
+    padding-right: 20px;
+}
+
+.o {
+    margin-left: 10px; /* Adjust the margin as needed */
+}
+
+.sear {
+    padding: 5px;
+    border: 1px solid #ccc; /* Add your desired border style */
+    margin-left: 10px; /* Adjust the margin as needed */
+}
+
+.sea {
+    display: flex;
+    align-items: center;
+}
+
+.sy {
+    display: flex;
+    align-items: center;
+}
+
+.sy div {
+    padding-right: 15px;
+}
+
+.p {
+    margin-left: 5px; /* Adjust the margin as needed */
+}
+
+/* Add more styling as needed for other elements */
+.sys{
+    display: flex;
+    align-items: center;
+    background-color: orange; 
+    border-radius: 30px;
+    padding-right: 10px;
+}
+    /* padding: 4px;
+}
+.pjb{
+    padding: 5px;
+    background-color: orange;
+}
+
+*/
+.b1{
+    display: flex;
+    justify-content: center;
+}
+.b2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.b2las{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* margin: 20px;    */
+}
+.sor{
+    padding-right: 10px;
+}
+.mm{
+    align-items: center;
+}
+.jjjj{
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 400px
+}
+/* body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+} */
+
+/* div {
+    margin: 20px;
+} */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    padding: 10px;
+    /* border: 1px solid #ddd; */
+    text-align: left;
+    border: none;
+}
+
+
+th {
+    /* background-color: #f2f2f2; */
+}
+
+tr:nth-child(even) {
+    /* background-color: #f9f9f9; */
+}
+
+tr:hover {
+    /* background-color: #f5f5f5; */
+}
+.hove:hover{
+    background-color: rgb(230, 185, 127);
+}
+.bl:hover{
+    background-color: rgb(213, 173, 116);
+    border-radius: 10px;
+}
+.bls{
+    /* padding-left: 5px; */
+}
